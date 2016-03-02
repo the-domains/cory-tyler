@@ -2,14 +2,28 @@
     <channel>
         <title><![CDATA[CoryTyler]]></title>
         <description><![CDATA[CoryTyler]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/cory-tyler/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 02 Mar 2016 05:38:52 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 02 Mar 2016 05:39:13 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/cory-tyler/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQR_AedDXkYNg26WnyiQs0QIVzC6dztmMbqhzHKzYDsmrV5s5w">]]></description>
+            <link>https://thegrid.ai/cory-tyler/c07cdcbf-278c-4605-9a54-f92b4fe6a400/index.html</link>
+            <guid isPermaLink="false">c07cdcbf-278c-4605-9a54-f92b4fe6a400</guid>
+            <pubDate>Wed, 02 Mar 2016 05:38:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://www.fourseasons.com/content/dam/fourseasons/images/web/FSH/FSH_1954_aspect16x9.jpg/jcr:content/renditions/cq5dam.web.580.326.jpeg">]]></description>
+            <link>https://thegrid.ai/cory-tyler/83f2fdb7-e769-4e5f-a1db-2d2d86faee7b/index.html</link>
+            <guid isPermaLink="false">83f2fdb7-e769-4e5f-a1db-2d2d86faee7b</guid>
+            <pubDate>Wed, 02 Mar 2016 05:38:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Downtown Los Angeles]]></title>
             <description><![CDATA[<article><h1>Downtown Los Angeles</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/65c240e25e46013e0206bc65b23cd4bba0dbfadd.png"></article>]]></description>
-            <link>undefineddowntown-los-angeles/index.html</link>
+            <link>https://thegrid.ai/cory-tyler/downtown-los-angeles/index.html</link>
             <guid isPermaLink="false">4f5c117b-4d29-45fa-8a16-ba1d4d215246</guid>
             <pubDate>Wed, 02 Mar 2016 05:38:44 GMT</pubDate>
         </item>
